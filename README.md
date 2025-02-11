@@ -4,9 +4,6 @@ Este repositório contém o projeto de um microcomputador baseado na arquitetura
 ## 📝 Objetivo
 O objetivo do projeto é construir e simular um microcomputador SAP-1 utilizando circuitos lógicos. Com isso, pretendemos explorar os fundamentos de arquitetura de computadores e a implementação prática de componentes como o registrador, a unidade de controle e o barramento.
 
-## 📁 Estrutura do Projeto
-- **/circuitos-logicos**: Arquivos de simulação e implementação dos circuitos lógicos.
-
 ## 🚀 Componentes Principais
 - **Unidade de Controle**: Implementa as instruções básicas do SAP-1.
 - **Registradores**: Armazenam dados temporariamente.
